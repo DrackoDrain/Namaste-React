@@ -1329,7 +1329,6 @@ const Body = () => {
                 <RestaurantCard resData={resList[5]} />
                 <RestaurantCard resData={resList[6]} />
                 </div>   
-            
         </div>
 
     )
