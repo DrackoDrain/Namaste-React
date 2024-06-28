@@ -14,6 +14,7 @@ const title = (<h1 className="heading"> Namaste React using JSX </h1>);
 const number = 100;
 const HeadingComoponents = () => (
     <div id="container" >
+        <h1> hi this is ayush </h1>
         <h2>{number}</h2>
         <h2>{100 + 200}</h2>
         {title}

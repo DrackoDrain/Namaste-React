@@ -38,9 +38,6 @@ const Header = () => {
       </div>
 
     </div>
-
-    
-
   )
 }
 
