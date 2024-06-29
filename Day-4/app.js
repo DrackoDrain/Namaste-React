@@ -36,7 +36,6 @@ const Header = () => {
           <li>Contact US </li>
         </ul>
       </div>
-
     </div>
   )
 }
