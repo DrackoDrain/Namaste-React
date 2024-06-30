@@ -34,6 +34,8 @@ const Header = () => {
           <li>About US </li>
           <li>Cart</li>
           <li>Contact US </li>
+
+          
         </ul>
       </div>
     </div>
