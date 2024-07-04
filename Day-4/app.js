@@ -57,9 +57,6 @@ const RestaurantCard = (props) => {
     </div>
   )
 }
-
-
-
 const resList = [
   {
     "card": {
