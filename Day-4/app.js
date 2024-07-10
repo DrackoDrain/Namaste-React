@@ -1334,8 +1334,6 @@ const Body = () => {
     </div>
   )
 }
-
-
 const AppLayout = () => {
   return (<div className="app">
     <Header />
