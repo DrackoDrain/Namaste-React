@@ -19,12 +19,6 @@ import ReactDOM from "react-dom/client";
  *  - Contact 
  * 
  */
-
-
-
-
-
-
 const Header = () => {
   return (
     <div className="header">
