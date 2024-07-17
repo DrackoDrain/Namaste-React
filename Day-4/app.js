@@ -704,6 +704,9 @@ const resList = [
             "Chinese",
             "Thalis"
           ],
+
+
+          
           "avgRating": 4.4,
           "veg": true,
           "parentId": "41590",
